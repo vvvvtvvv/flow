@@ -1,0 +1,1 @@
+  code_challenge = BASE64URL-ENCODE(SHA256(ASCII(code_verifier)))
